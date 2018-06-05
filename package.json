@@ -1,0 +1,25 @@
+{
+  "name": "homebridge-pwmhat",
+  "description": "This plugin allows you to send serial data to an Arduino, ex. to control an led light strip",
+  "license": "MIT",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gunnthorian/homebridge-arduinobridge.git"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "hat",
+    "raspberry",
+    "pi",
+    "pwm"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.5"
+  },
+  "dependencies": {
+    "color-convert": "^1.9.0"
+  }
+}
