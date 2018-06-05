@@ -29,7 +29,7 @@ optionally you can always add more light strips with:
     ]
 ```
 
-`"accessory": "PWM-Devices"` is required
+`"accessory": "PWM-Devices"` is required <br>
 `"name": "<NAME>"` <NAME> can be what ever you would like, this will show up as your device name in the home app <br>
 `"pwmRchannel": <VALUE>` <VALUE> is the hat's channel you're using for the red leds <br>
 `"pwmGchannel": <VALUE>` <VALUE> is the hat's channel you're using for the green leds <br>
