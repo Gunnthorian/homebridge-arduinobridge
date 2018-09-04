@@ -1,6 +1,6 @@
 # homebridge-pwmhat
 
-I've made a plugin for software called HomeBridge, HomeBridge allows a RaspberryPi to pretend its a HomeKit Accessory. Now my plugin allows the RaspberryPi to then control an RGB light strip via the iOS app
+I've made a plugin for a software called HomeBridge, HomeBridge allows a RaspberryPi to pretend its a HomeKit Accessory. Now my plugin allows the RaspberryPi to then control an RGB light strip via the iOS app
 
 This plugin (will) allow you to send serial data to an Arduino, ex. to control an led light strip.
 
